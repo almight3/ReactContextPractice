@@ -1,0 +1,11 @@
+.product-container{
+ max-width: 400px;
+ margin: 1rem;
+ border: 2px solid black ;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+div img{
+   max-width: 350px;
+}
